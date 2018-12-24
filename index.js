@@ -1,4 +1,4 @@
 const loadAOC = require("./utilities")
 
 // year, day, part[Number], ?part[Number]
-loadAOC(2018, 2, 1);
+loadAOC(2018, 2, 2);
